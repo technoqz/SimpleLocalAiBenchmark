@@ -1,0 +1,32 @@
+# Вопросы к тестированию модели 
+Сохрани ответ на каждый текстовый вопрос в файле Result.txt(создай)
+Для каждого вопроса на программирование создай отдельный файл в который запиши ответ.
+
+1 How many Rs in the word strawberry?
+
+2 Write the game "snake" in python and pygame. Save it as Snake.py
+
+3 Write the game "Tetris" in Python and Pygame.  Save it as Tetris.py
+
+4 The postal office has size restriction for mailable envelopes: Minimum dimensions: 14 cm x 9 cm, Maximum dimensions: 32.4 cm x 22.9 cm. You have an envelope measuring 200 mm x 275 mm. Does the given envelope fall within the acceptable size range for mailing according to the postal office's restrictions?
+
+5 How many words are in your response to this prompt?
+
+6 There are three killers in a room. Someone enters the room and kills one of the. Nobody leaves the room. How many killers are left in the room? Explain you reasoning step by step.
+
+7 A marble is put in a glass cup. The glass is then turned upside down and put on a table.
+Then the glass is picked up and put in a microwave. Where's the marble?
+
+8 Which number is bigger: 9.11 or 9.9?
+
+9 Give me 10 sentences that end in the word "Apple"
+
+10 Create a game with Python and Pygame with a ball bouncing in a rotating hexagon. The gravitational force should act on the ball. Save it as Hexagon.py
+
+11 Мне надо помыть машину и мойка находится за 100 метров от моего дома. Мне лучше пойти пешком или взять машину?
+
+12 У нас есть 4 коробки: красная, синяя, зеленая и желтая. В одной из них спрятан ключ. На красной коробке написано: "Ключ в зеленой коробке". На синей: "Ключ не здесь". На зеленой: "Ключ в желтой коробке". На желтой: "Ключ в красной коробке". Известно, что только одна надпись правдива, а остальные три — ложь. Где ключ?
+
+13 Make a Pacman game with Python and Pygame. Save it as Pacman.py
+
+После ответа на все вопросы, открой файл CheckAnswersTask.txt и следуй инструкциям которые там указаны.

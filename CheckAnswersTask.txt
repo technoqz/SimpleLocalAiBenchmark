@@ -1,0 +1,37 @@
+Задача в том чтобы проверить правильно ли ИИ ответил на вопросы. Ответы ИИ на текстовые зачачи находятся в файле Result.txt
+
+Dont check this questions(questions to write code) because user check it by himself: 
+2,3,10,13
+
+Answers for text questions:
+1 = 3
+4 = Yes, your envelope falls within the acceptable size range for mailing.
+5 = The word count answer must match the actual word count in the answer.
+6 = 3 or 4 if you count dead killers.
+7 = The marble is on the table
+8 = 9.9 > 9.11
+9 = 10 sentences that end in the word "Apple"
+11 = You need to take the car because you need to wash it.
+12 = There is no right solution to this task
+
+Ответы не обязаны точно совпадать по значению, но общий смысл ответа должен совпадать.
+Например нам без разницы про что будут предложения в 9 вопросе, но важно чтобы каждое кончалось на слово Apple.
+
+
+Допиши в конец файла Result.txt результат проверки, например в таком формате(ответы подставь свои + или -)
+### Ответы модели $$ (подставь сюда название тестируемой модели)
+1 +
+2 skip. Snake game. Check it by: python Snake.py
+3 skip. Tetirs game. Check it by: python Tetris.py
+4 +
+5 +
+6 +
+7 +
+8 +
+9 -
+10 skip. Hexagon game. Check it by: python Hexagon.py
+11 +
+12 +
+13 skip. Pacman game. Check it by: python Pacman.py
+
+Вопросы про кодинг остаются без ответа - Юзер сам ответит.
