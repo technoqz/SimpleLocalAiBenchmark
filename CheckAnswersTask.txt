@@ -14,7 +14,7 @@ Answers for text questions:
 6 = 3 or 4 if you count dead killers.
 7 = The marble is on the table
 8 = 9.9 > 9.11
-9 = 10 sentences that end in the word "Apple"
+9 = any 10 sentences that end in the word "Apple"
 11 = You need to take the car because you need to wash it.
 12 = There is no right solution to this task
 
