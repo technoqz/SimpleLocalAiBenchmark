@@ -29,3 +29,4 @@ Then the glass is picked up and put in a microwave. Where's the marble?
 13 Make a Pacman game with Python and Pygame. Save it as Pacman.py
 
 После ответа на все вопросы(после сохранения ответов в Result.txt и сохранения отдельных файлов с ответами на задачи по кодингу), открой файл CheckAnswersTask.txt и следуй инструкциям которые там указаны. 
+ВНИМАНИЕ! ВАЖНО! Файл CheckAnswersTask.txt нельзя открывать до того как не будут записаны в файлы ВСЕ ответы на вопросы.
